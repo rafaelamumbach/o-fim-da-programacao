@@ -13,9 +13,9 @@ Este repositório contém os materiais e o resumo do trabalho apresentado na **U
 
 ## 📁 Estrutura do Repositório
 
-* `README.md`: Informações gerais sobre o projeto.
-* `CONTEUDO.md`: Resumo detalhado dos tópicos abordados na apresentação, incluindo hipóteses, visões de especialistas e referências bibliográficas.
 * `/slides`: Pasta contendo a apresentação oficial.
+* `CONTEUDO.md`: Resumo detalhado dos tópicos abordados na apresentação, incluindo hipóteses, visões de especialistas e referências bibliográficas.
+* `README.md`: Informações gerais sobre o projeto.
 
 ## 🎯 Conclusão Geral
 A questão central não é o "fim do desenvolvedor", mas sim o "fim do desenvolvedor como conhecemos hoje". A inteligência artificial assume o papel de automatizar tarefas repetitivas, exigindo que o talento humano se concentre na orquestração, no entendimento de requisitos e na tomada de decisões de negócio.
