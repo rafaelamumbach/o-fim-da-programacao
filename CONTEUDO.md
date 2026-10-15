@@ -36,4 +36,3 @@ As tarefas do desenvolvedor passarão por três caminhos:
 - **METR.** *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*. Disponível em: https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf. Acesso em: 14 out. 2026.
 - **MEYER, Bertrand.** *AI does not help programmers*. Communications of the ACM, 2024. Disponível em: https://cacm.acm.org/blogcacm/ai-does-not-help-programmers/. Acesso em: 14 out. 2026.
 - **WELSH, M.** *The End of Programming*. Communications of the ACM, v. 66, n. 1, 2023. Disponível em: https://dl.acm.org/doi/10.1145/3570220. Acesso em: 14 out. 2026.
-- **WESTERMAN, George.** *IA nas Organizações*. Palestra apresentada no evento UNIVERSO TOTVS 2026. São Paulo, SP, 13 de outubro de 2026.
