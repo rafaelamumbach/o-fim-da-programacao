@@ -18,4 +18,4 @@ Este repositório contém os materiais e o resumo do trabalho apresentado na **U
 * `/slides`: Pasta contendo a apresentação oficial.
 
 ## 🎯 Conclusão Geral
-A questão central não é o "fim do desenvolvedor", mas sim o "fim do desenvolvedor como conhecemos hoje". A inteligência artificial assume o papel de automatizar tarefas repetitivas, exigindo que o talento humano se concentre na orquestração, no entendimento de requisitos e na tomada de decisões de negócio[cite: 30, 31, 33].
+A questão central não é o "fim do desenvolvedor", mas sim o "fim do desenvolvedor como conhecemos hoje". A inteligência artificial assume o papel de automatizar tarefas repetitivas, exigindo que o talento humano se concentre na orquestração, no entendimento de requisitos e na tomada de decisões de negócio.
